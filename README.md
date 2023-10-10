@@ -1,3 +1,3 @@
 # Zuplo Linting with Vacuum
 
-How to lint a Zuplo API with [Vacuum](https://quobix.com/vacuum/)
+Moved to https://github.com/zuplo/zuplo/tree/main/examples/api-linting
